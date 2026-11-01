@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#item1{
+    background-color: rebeccapurple;
+    height: 250px;
+    width: 100vw;
+    padding: 48px;
+}
+#item2{
+    background-color: goldenrod;
+    height: 250px;
+    width: 100vw;
+    padding: 48px;
+    border: 2vb solid #fff;
+}

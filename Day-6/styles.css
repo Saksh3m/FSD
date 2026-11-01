@@ -1,0 +1,17 @@
+h1{
+   color: darkolivegreen;
+   background-color: cadetblue;
+}
+p{
+   color: fuchsia;
+   background-color: aquamarine;
+}
+#mid{
+   background-color: burlywood;
+}
+.text{
+    background-color: black;
+}
+span{
+    background-color: salmon;
+}

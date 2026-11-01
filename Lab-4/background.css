@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+    height: 40vh;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0 );
+    background-image: url(https://i.pinimg.com/1200x/fc/5c/bb/fc5cbb2c0872859a3027180a97ee040b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#hehe{
+    background-color: steelblue;
+    border-radius:  5% 50% 5% 50%;
+}
+
+#yo{
+background-color: teal;
+border-radius:  50% 5% 50% 5%;
+}
+
+#hmm{
+    border-radius:  50% 5% 50% 5%;
+}
+
+#yoyo{
+    border-radius:  5% 50% 5% 50%;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: blanchedalmond;
+    flex-wrap: wrap;
+    align-content: center;
+}

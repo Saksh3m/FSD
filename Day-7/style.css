@@ -1,0 +1,26 @@
+.item-1{
+    margin: 40px 80px;
+
+    border: 5px solid burlywood;
+    border-radius: 20px;
+    padding: 40px;
+
+    background-color: bisque;
+
+    width: 200px;
+    height: 100px;
+}
+
+.item-2{
+    margin: 40px 80px;
+
+    border: 5px solid burlywood;
+    border-radius: 20px;
+    padding: 40px;
+
+    background-color: bisque;
+
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;
+}
